@@ -3,7 +3,7 @@ This token is called NDT (Ndu Token)
 
 An ERC20 Token
 
-Created from scratch without the use of any library
+Created from scratch without the use or import of any library
 
 Contains all the ERC20 standards for tokens
 
